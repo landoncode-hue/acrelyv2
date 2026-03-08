@@ -234,8 +234,8 @@ Before handover, the following three documents must be provided:
 #### **7.3. Go/No-Go Checklist for Final Handover**
 The system is ready for production handover to the client only when **all** of the following are complete:
 - [ ] **UAT Sign-off:** The client has tested all user stories in a staging environment and provided formal sign-off.
-- [ ] **RBAC Test Coverage:** 100% of RBAC permissions are covered by automated Playwright and Vitest tests.
-- [ ] **Offline Validation:** The PWA workflow has been validated in a simulated low-connectivity environment (e.g., using Chrome DevTools).
+- [x] **RBAC Test Coverage:** 100% of RBAC permissions are covered by automated Playwright and Vitest tests.
+- [x] **Offline Validation:** The PWA workflow has been validated in a simulated low-connectivity environment (e.g., using Chrome DevTools).
 - [ ] **Compliance Docs:** The Security Whitepaper, Operational Runbook, and Data Migration Script are finalized and delivered.
 - [ ] **Monitoring Live:** All critical alerts and the health endpoint are active and reporting to the correct channels.
 
