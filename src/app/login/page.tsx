@@ -25,6 +25,7 @@ export default function LoginPage() {
     const [isLocked, setIsLocked] = useState(false);
     const [lockoutTime, setLockoutTime] = useState<Date | null>(null);
     const [countdown, setCountdown] = useState<string>("");
+    const [loginError, setLoginError] = useState<string | null>(null);
     const router = useRouter();
 
 
@@ -72,6 +73,7 @@ export default function LoginPage() {
         }
 
         setIsLoading(true);
+        setLoginError(null);
         try {
             let email = data.identifier;
 
@@ -107,8 +109,10 @@ export default function LoginPage() {
                     });
                     return;
                 }
+                setLoginError(result.error || "Invalid email or password");
                 toast.error("Login failed", {
                     description: result.error || "Invalid email or password",
+                    id: "login-error", // Added for testing
                 });
                 return;
             }
@@ -169,6 +173,18 @@ export default function LoginPage() {
                     </div>
                 )}
 
+                {/* API Error Alert */}
+                {loginError && (
+                    <div className="mb-6 rounded-lg border border-destructive/50 bg-destructive/10 p-4" data-testid="login-error">
+                        <div className="flex items-start gap-3">
+                            <AlertCircle className="h-5 w-5 text-destructive mt-0.5" />
+                            <p className="font-medium text-destructive text-sm">
+                                {loginError}
+                            </p>
+                        </div>
+                    </div>
+                )}
+
                 {/* Login Form Card */}
                 <div className="glass-card overflow-hidden rounded-xl p-8 border bg-card/50 shadow-sm backdrop-blur-xl">
                     <form onSubmit={handleSubmit(onSubmit)} className="space-y-6">
@@ -181,6 +197,7 @@ export default function LoginPage() {
                                 autoComplete="username"
                                 className="h-11 bg-background/50 transition-all focus:bg-background font-sans"
                                 disabled={isLocked}
+                                data-testid="email-input"
                                 {...register("identifier")}
                             />
                             {errors.identifier && (
@@ -197,6 +214,7 @@ export default function LoginPage() {
                                     className="px-0 font-normal h-auto text-xs text-muted-foreground hover:text-primary"
                                     type="button"
                                     onClick={() => router.push('/forgot-password')}
+                                    data-testid="forgot-password-link"
                                 >
                                     Forgot password?
                                 </Button>
@@ -209,6 +227,7 @@ export default function LoginPage() {
                                     autoComplete="current-password"
                                     className="h-11 bg-background/50 transition-all focus:bg-background font-sans pr-10"
                                     disabled={isLocked}
+                                    data-testid="password-input"
                                     {...register("password")}
                                 />
                                 <Button
@@ -236,6 +255,7 @@ export default function LoginPage() {
                             type="submit"
                             className="w-full h-11 text-base font-medium font-heading shadow-lg hover:shadow-xl transition-all hover:-translate-y-0.5"
                             disabled={isLoading || isLocked}
+                            data-testid="login-submit"
                         >
                             {isLoading ? (
                                 <>

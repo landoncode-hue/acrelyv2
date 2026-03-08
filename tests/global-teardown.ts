@@ -28,7 +28,11 @@ export default async function globalTeardown() {
     // Delete in dependency order (children before parents)
     await sql`DELETE FROM audit_logs WHERE changes->>'source' = 'e2e'`;
     await sql`DELETE FROM commissions WHERE metadata->>'source' = 'e2e'`;
+    
+    // Delete allocations for E2E plots first to avoid FK violation
+    await sql`DELETE FROM allocations WHERE plot_id IN (SELECT id FROM plots WHERE plot_number LIKE 'E2E_%')`;
     await sql`DELETE FROM allocations WHERE metadata->>'source' = 'e2e'`;
+    
     await sql`DELETE FROM plots WHERE plot_number LIKE 'E2E_%'`;
     await sql`DELETE FROM estates WHERE name LIKE 'E2E_%'`;
 
