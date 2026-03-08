@@ -37,24 +37,26 @@ const testUsers = [
 ];
 
 for (const user of testUsers) {
-  const existing = await sql`SELECT id FROM profiles WHERE email = ${user.email} LIMIT 1`;
-  if (existing.length === 0) {
-    await sql`
-      INSERT INTO profiles (email, password_hash, role, full_name, is_staff, email_verified, staff_status)
-      VALUES (
-        ${user.email},
-        ${PASSWORD_HASH},
-        ${user.role},
-        ${user.full_name},
-        ${user.is_staff},
-        true,
-        ${user.is_staff ? 'active' : null}
-      )
-    `;
-    console.log(`  ✅ Created user: ${user.email} (${user.role})`);
-  } else {
-    console.log(`  ⏩ Skipped (exists): ${user.email}`);
-  }
+  await sql`
+    INSERT INTO profiles (email, password_hash, role, full_name, is_staff, email_verified, staff_status)
+    VALUES (
+      ${user.email.toLowerCase().trim()},
+      ${PASSWORD_HASH},
+      ${user.role},
+      ${user.full_name},
+      ${user.is_staff},
+      true,
+      ${user.is_staff ? 'active' : null}
+    )
+    ON CONFLICT (email) DO UPDATE SET
+      password_hash = ${PASSWORD_HASH},
+      role = ${user.role},
+      full_name = ${user.full_name},
+      is_staff = ${user.is_staff},
+      staff_status = ${user.is_staff ? 'active' : null},
+      email_verified = true
+  `;
+  console.log(`  ✅ Synced user: ${user.email} (${user.role})`);
 }
 
 // ─── 2. Test Estate ───────────────────────────────────────────────────────────
