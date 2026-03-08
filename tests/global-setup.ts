@@ -123,10 +123,10 @@ export default async function globalSetup(config: FullConfig) {
     try {
       await loginAndSaveState(role, baseURL);
     } catch (err) {
-      console.warn(
-        `[global-setup] ⚠️  Could not authenticate as ${role}. ` +
-          `Make sure the account exists in your DB. Run: npm run test:setup\n`,
-        err,
+      throw new Error(
+        `[global-setup] ❌ Failed to authenticate as ${role}. ` +
+          `Make sure the account exists in your DB. Run: npm run test:setup\n` +
+          `Original error: ${err instanceof Error ? err.message : String(err)}`,
       );
     }
   }

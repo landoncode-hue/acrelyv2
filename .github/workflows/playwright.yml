@@ -19,7 +19,9 @@ jobs:
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
     - name: Run Playwright tests
-      run: npx playwright test
+      run: |
+        npm run test:setup
+        npx playwright test
       env:
         NEXT_PUBLIC_APP_URL: ${{ secrets.NEXT_PUBLIC_APP_URL || 'http://localhost:3000' }}
         DATABASE_URL: ${{ secrets.DATABASE_URL }}
