@@ -1,0 +1,1895 @@
+
+> acrely@0.1.0 lint
+> eslint .
+
+
+/Users/lordkay/Development/acrely/next.config.ts
+  59:23  warning  'isServer' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/public/fallback-ce627215c0e4a9af.js
+  1:247   warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:313   warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:462   warning  'r' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:499   warning  'r' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:560   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:694   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:708   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:724   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:873   warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:908   warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:956   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:994   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1126  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1461  warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:1493  warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:1590  warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:1765  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1798  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1830  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:2109  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:2142  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:2174  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:2287  warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:2407  warning  'r' is never reassigned. Use 'const' instead                           prefer-const
+  1:2413  warning  'n' is never reassigned. Use 'const' instead                           prefer-const
+  1:2418  warning  'o' is never reassigned. Use 'const' instead                           prefer-const
+
+/Users/lordkay/Development/acrely/public/service-worker.js
+  1:24   warning  's' is never reassigned. Use 'const' instead                           prefer-const
+  1:156  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:209  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:250  warning  'a' is never reassigned. Use 'const' instead                           prefer-const
+  1:448  warning  'n' is never reassigned. Use 'const' instead                           prefer-const
+  1:626  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+
+/Users/lordkay/Development/acrely/public/workbox-4a6e5f9b.js
+  1:49     warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:87     warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:211    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:257    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:298    warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:381    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:642    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:813    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:989    warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1093   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:1738   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:2263   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:3058   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:3102   warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:3598   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:3727   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:7052   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:7234   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:7954   warning  'r' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:7962   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:8066   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:8368   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:9440   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:9550   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:9566   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:9627   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:9962   warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:10038  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:10065  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:10081  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:10163  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:10963  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11007  warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:11122  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11194  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11301  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11382  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11623  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:11941  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:12060  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:12464  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:12684  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:13012  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:13272  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:13371  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:13415  warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:13913  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:14007  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:14220  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:14330  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:14841  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:14873  warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:14981  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:15407  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:15774  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:15892  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:15994  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:16274  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:16535  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:16719  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:17905  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:18855  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:18944  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19075  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19132  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19329  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19450  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19583  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:19803  warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:19895  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:20472  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:20583  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:20803  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:21042  warning  'e' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:21200  warning  's' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:21265  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+  1:21651  warning  't' is defined but never used                                          @typescript-eslint/no-unused-vars
+  1:21781  warning  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+
+/Users/lordkay/Development/acrely/scripts/audit/backend-audit.ts
+   76:58  warning  Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+  230:17  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/audit/clean-legacy-data.ts
+  43:46  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+  43:51  warning  'i' is defined but never used                       @typescript-eslint/no-unused-vars
+  67:13  warning  'amount' is never reassigned. Use 'const' instead   prefer-const
+  73:13  warning  'balance' is never reassigned. Use 'const' instead  prefer-const
+
+/Users/lordkay/Development/acrely/scripts/audit/debug-allocation.ts
+  37:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/debug-kpis.ts
+  19:16  warning  'testRPC' is defined but never used               @typescript-eslint/no-unused-vars
+  21:21  warning  'session' is assigned a value but never used      @typescript-eslint/no-unused-vars
+  21:39  warning  'loginError' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  36:7   warning  'adminClient' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/audit/debug/debug-schema.ts
+  21:19  warning  'alloc' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  39:11  warning  'dummyId' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/audit/debug_schema.ts
+  14:19  warning  'cols' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/audit/fix-legacy-dates.ts
+    5:13  warning  'path' is defined but never used          @typescript-eslint/no-unused-vars
+   22:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:27  warning  'p2' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  149:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/identify-failed-imports.ts
+  22:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:20  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  52:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/inspect-policies.ts
+  9:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/audit/inspect-triggers.ts
+  59:19  warning  'specificTriggerName' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  72:25  warning  Unexpected any. Specify a different type                  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/test-crud.ts
+  20:19  warning  'readCust' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  28:21  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/validate-legacy-data.ts
+   5:7   warning  'VALID_ESTATES' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  33:11  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+  67:35  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/audit/verify-import-dates.ts
+  14:9  warning  'historicalCount' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  15:9  warning  'dummyCount' is assigned a value but never used       @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/checks/analyze-conflicts.ts
+  12:20  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  25:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/analyze-csv.ts
+  27:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  50:10  warning  'isPlotFormat' is defined but never used  @typescript-eslint/no-unused-vars
+  71:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/check-counts.ts
+  12:37  warning  'pErr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  13:40  warning  'aErr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  14:38  warning  'cErr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/checks/check-empty-estates.ts
+  46:23  warning  'plots' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/checks/check-estates-public.ts
+  13:26  warning  'count' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/checks/check-triggers.ts
+  21:39  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/count-dummy-customers.ts
+  4:8  warning  'path' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/checks/verify-backdating.ts
+  33:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/verify-half-plots.ts
+  19:57  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  24:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:64  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/verify-import-results.ts
+  41:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/checks/verify-oduwa.ts
+  9:7  warning  '__dirname' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/audit-legacy-import.ts
+  40:39  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/check-assets.ts
+  18:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/clean-legacy-duplicates.ts
+   28:31  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+   69:29  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+   88:32  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+   94:21  warning  'plotId' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  143:39  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  143:47  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/clear-all-customer-data.ts
+  22:50  warning  'installmentsCount' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/data-hygiene-audit.ts
+   38:16  warning  Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+  196:17  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/find-duplicates.ts
+  46:60  warning  'name' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/import-legacy-allocations.ts
+    8:10  warning  'randomUUID' is defined but never used    @typescript-eslint/no-unused-vars
+  161:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/import-legacy-data-comprehensive.ts
+  109:14  warning  'error' is defined but never used                            @typescript-eslint/no-unused-vars
+  151:32  warning  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+  240:9   warning  'totalRecords' is assigned a value but never used            @typescript-eslint/no-unused-vars
+  277:29  warning  'existingCustomer' is never reassigned. Use 'const' instead  prefer-const
+  392:43  warning  Unexpected any. Specify a different type                     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/merge-legacy-csvs.ts
+  34:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/split-legacy-data.ts
+  34:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:24  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:27  warning  'index' is defined but never used         @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/data/unify-legacy-data.ts
+    6:7   warning  'LEGACY_DATA_DIR' is assigned a value but never used   @typescript-eslint/no-unused-vars
+   68:9   warning  'normalized' is never reassigned. Use 'const' instead  prefer-const
+   73:18  warning  'e' is defined but never used                          @typescript-eslint/no-unused-vars
+  132:25  warning  Unexpected any. Specify a different type               @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/data/unify_csvs.ts
+   35:21  warning  Unexpected any. Specify a different type                  @typescript-eslint/no-explicit-any
+   57:17  warning  'originalEmail' is never reassigned. Use 'const' instead  prefer-const
+   76:13  warning  'processed' is never reassigned. Use 'const' instead      prefer-const
+  158:18  warning  'error' is defined but never used                         @typescript-eslint/no-unused-vars
+  184:56  warning  Unexpected any. Specify a different type                  @typescript-eslint/no-explicit-any
+  220:23  warning  Unexpected any. Specify a different type                  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/inspection/inspect-db.ts
+  18:19  warning  'funcs' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  18:33  warning  'fError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/database/maintenance/clear-audit-logs.ts
+  29:24  warning  'count' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/database/maintenance/clear-data-keep-estates-profiles.ts
+  43:29  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  43:95  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/apply-fix-exhaustive.ts
+   4:8   warning  'fs' is defined but never used            @typescript-eslint/no-unused-vars
+   5:8   warning  'path' is defined but never used          @typescript-eslint/no-unused-vars
+  13:34  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:14  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  18:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  95:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/apply-fix.ts
+   67:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:14  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  103:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/apply-hotfix-migrations.ts
+  36:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/apply-migrations-manual.ts
+  33:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  53:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/apply-recursion-fix.ts
+  48:14  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  48:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  66:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  89:22  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/cleanup-remote-db.ts
+  16:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/migrations/migration/delete-unassigned-plots.ts
+  38:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/database/refactor-complex-plots.ts
+  126:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:23  warning  'num' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/database/standardize-plots.ts
+  67:40  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:21  warning  'key' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/debug-plots.ts
+  40:11  warning  'plotClean' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  43:11  warning  'plotNums' is assigned a value but never used   @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/debug/check-columns.ts
+  13:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/debug/debug-termii.ts
+  42:18  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/import/import-all-legacy-direct.ts
+   24:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  198:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/import/process-failed-legacy.ts
+    5:13  warning  'path' is defined but never used                      @typescript-eslint/no-unused-vars
+   40:59  warning  Unexpected any. Specify a different type              @typescript-eslint/no-explicit-any
+  103:17  warning  'plotQuery' is never reassigned. Use 'const' instead  prefer-const
+  108:48  warning  'findErr' is assigned a value but never used          @typescript-eslint/no-unused-vars
+  171:21  warning  Unexpected any. Specify a different type              @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/legacy/apply-critical-fixes.ts
+  20:7   warning  'supabase' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  29:16  warning  'applyMigration' is defined but never used     @typescript-eslint/no-unused-vars
+  39:11  warning  'sql' is assigned a value but never used       @typescript-eslint/no-unused-vars
+  49:21  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/legacy/apply-hotfix.ts
+  24:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:14  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/legacy/fix-template-subjects.ts
+  61:13  warning  'failCount' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  64:13  warning  'successCount' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/legacy/fix_city_of_david.ts
+  94:22  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/legacy/fix_city_of_david_smart.ts
+  94:79  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/legacy/preprocess-legacy-data.ts
+  21:26  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:59  warning  'index' is defined but never used         @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/maintenance/cleanup-test-data-client.ts
+  16:19  warning  'customers' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  29:19  warning  'estates' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  42:19  warning  'leads' is assigned a value but never used      @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/maintenance/fix-system-data.ts
+  98:41  warning  'payError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/maintenance/nuke-profiles.ts
+  74:42  warning  'profilesCount' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/migrations/apply-migrations-direct.ts
+  45:22  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/migrations/verify-migrations.ts
+  15:41  warning  'cError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  26:40  warning  'sError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  30:47  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  30:58  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/migrations/verify-recursion-fix.ts
+  51:19  warning  'cols' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  53:19  warning  'allocs' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  53:34  warning  'aError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/seed-and-validate.ts
+   2:10  warning  'createClient' is defined but never used  @typescript-eslint/no-unused-vars
+  16:14  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/testing/add-test-plots.ts
+  51:54  warning  '_' is defined but never used  @typescript-eslint/no-unused-vars
+  51:57  warning  'i' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/testing/test-admin.ts
+  32:11  warning  'email' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/testing/test-google-drive-sync.ts
+   16:13  warning  'fs' is defined but never used            @typescript-eslint/no-unused-vars
+  177:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/testing/verify-all-flows.ts
+   46:16  warning  'setupTestData' is defined but never used              @typescript-eslint/no-unused-vars
+   70:5   warning  'customerId' is never reassigned. Use 'const' instead  prefer-const
+  259:21  warning  Unexpected any. Specify a different type               @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/testing/verify-fixes.ts
+  21:20  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  21:38  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:24  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/testing/verify-legacy-vs-db.ts
+   31:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   32:49  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:58  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:65  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/utils/scenarios/extras.ts
+  3:10  warning  'generateRandomString' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/utils/scenarios/sales.ts
+  7:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/scripts/utils/setup-backup-storage.ts
+  49:27  warning  'newBucket' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  79:23  warning  'downloadData' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/scripts/utils/test-utils.ts
+  27:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/agent-analytics/page.tsx
+  21:5   warning  'RefreshCw' is defined but never used                                                                           @typescript-eslint/no-unused-vars
+  44:8   warning  React Hook useEffect has a missing dependency: 'loadMetrics'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  64:25  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  97:74  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/agents/[id]/page.tsx
+    7:10   warning  'PageHeader' is defined but never used                                                                               @typescript-eslint/no-unused-vars
+   10:69   warning  'Calendar' is defined but never used                                                                                 @typescript-eslint/no-unused-vars
+   10:91   warning  'Banknote' is defined but never used                                                                                 @typescript-eslint/no-unused-vars
+   10:101  warning  'Users' is defined but never used                                                                                    @typescript-eslint/no-unused-vars
+   39:24   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+   96:8    warning  React Hook useEffect has a missing dependency: 'fetchRelatedData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  111:46   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  120:44   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  129:40   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  132:63   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  133:67   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  134:48   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  134:104  warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  155:21   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  167:44   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  179:21   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  203:37   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  211:37   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  218:37   warning  Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/agents/new/page.tsx
+  17:46  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  27:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  55:21  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/agents/page.tsx
+  31:13  warning  'profile' is assigned a value but never used                                                                    @typescript-eslint/no-unused-vars
+  46:8   warning  React Hook useEffect has a missing dependency: 'fetchAgents'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  56:21  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  70:18  warning  'e' is defined but never used                                                                                   @typescript-eslint/no-unused-vars
+  70:21  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/[id]/allocation-detail-client.tsx
+    5:10   warning  'logger' is defined but never used                                                                           @typescript-eslint/no-unused-vars
+   26:17   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   27:28   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   38:58   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   39:24   warning  'setFetchError' is assigned a value but never used                                                           @typescript-eslint/no-unused-vars
+   73:32   warning  'error' is defined but never used                                                                            @typescript-eslint/no-unused-vars
+   75:54   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   75:62   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   82:8    warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  113:21   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  139:21   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  163:21   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  179:21   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  298:124  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  298:177  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  499:105  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  500:107  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  501:115  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  562:59   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  562:67   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  563:61   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  607:55   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  607:63   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  608:60   warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/[id]/page.tsx
+   6:11  warning  'PageProps' is defined but never used     @typescript-eslint/no-unused-vars
+  42:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/analytics/page.tsx
+   14:5   warning  'Building2' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+   16:5   warning  'ArrowUpRight' is defined but never used                                                                          @typescript-eslint/no-unused-vars
+   17:5   warning  'ArrowDownRight' is defined but never used                                                                        @typescript-eslint/no-unused-vars
+   77:8   warning  React Hook useEffect has a missing dependency: 'loadAnalytics'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  102:25  warning  Unexpected any. Specify a different type                                                                          @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/new/page.tsx
+  17:9   warning  'initialData' is never reassigned. Use 'const' instead  prefer-const
+  17:22  warning  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/page.tsx
+  30:27  warning  'error' is assigned a value but never used                                                                   @typescript-eslint/no-unused-vars
+  42:50  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  55:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/allocations/pending/page.tsx
+    9:66  warning  'Calendar' is defined but never used                                                                                     @typescript-eslint/no-unused-vars
+   49:8   warning  React Hook useEffect has a missing dependency: 'loadPendingApprovals'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   58:25  warning  Unexpected any. Specify a different type                                                                                 @typescript-eslint/no-explicit-any
+   69:21  warning  'data' is assigned a value but never used                                                                                @typescript-eslint/no-unused-vars
+   80:25  warning  Unexpected any. Specify a different type                                                                                 @typescript-eslint/no-explicit-any
+  100:25  warning  Unexpected any. Specify a different type                                                                                 @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/analytics/page.tsx
+   83:8   warning  React Hook useEffect has a missing dependency: 'loadAnalytics'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  132:25  warning  Unexpected any. Specify a different type                                                                          @typescript-eslint/no-explicit-any
+  159:43  warning  'mounted' is assigned a value but never used                                                                      @typescript-eslint/no-unused-vars
+  187:74  warning  Unexpected any. Specify a different type                                                                          @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/audit/[id]/page.tsx
+  17:36  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  32:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/audit/page.tsx
+  24:38  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  26:52  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  31:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  51:27  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/commissions/commissions-client.tsx
+  28:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  29:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  68:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/commissions/page.tsx
+  15:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/commissions/withdrawals/page.tsx
+  28:46  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  30:60  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  39:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  78:92  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  84:27  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/campaigns/page.tsx
+   25:44   warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   34:48   warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   56:67   warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  120:21   warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  267:145  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  267:179  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  314:93   warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  314:101  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  320:84   warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  320:98   warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/components/DeliveryChart.tsx
+  7:11  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/components/TermiiBalanceCard.tsx
+  8:10  warning  'logger' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/layout.tsx
+  6:10  warning  'Button' is defined but never used         @typescript-eslint/no-unused-vars
+  7:10  warning  'MessageSquare' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/logs/page.tsx
+  21:11  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  67:51  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/page.tsx
+  91:34  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/settings/page.tsx
+    6:46  warning  'CardFooter' is defined but never used                                                                       @typescript-eslint/no-unused-vars
+   70:12  warning  'loading' is assigned a value but never used                                                                 @typescript-eslint/no-unused-vars
+   94:40  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  111:8   warning  React Hook useEffect has a missing dependency: 'settings'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  130:25  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  233:54  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+  233:61  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/communications/templates/page.tsx
+  30:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/customers/import/page.tsx
+   18:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:83  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/[id]/estate-detail-client.tsx
+   23:20  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+   24:19  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+   25:25  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+   26:16  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+   39:19  warning  'setPlots' is assigned a value but never used  @typescript-eslint/no-unused-vars
+   48:35  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  151:50  warning  'newPlots' is defined but never used           @typescript-eslint/no-unused-vars
+  184:53  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/[id]/page.tsx
+  46:41  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/inventory/page.tsx
+   28:12  warning  'updateRangeStart' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+   28:30  warning  'setUpdateRangeStart' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+   29:12  warning  'updateRangeEnd' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+   29:28  warning  'setUpdateRangeEnd' is assigned a value but never used                                                       @typescript-eslint/no-unused-vars
+   30:12  warning  'updatePrice' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+   30:25  warning  'setUpdatePrice' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+   31:12  warning  'updateStatus' is assigned a value but never used                                                            @typescript-eslint/no-unused-vars
+   31:26  warning  'setUpdateStatus' is assigned a value but never used                                                         @typescript-eslint/no-unused-vars
+   43:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   93:21  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  101:11  warning  'handleBulkUpdate' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/new/page.tsx
+   4:10  warning  'createClient' is defined but never used      @typescript-eslint/no-unused-vars
+  18:13  warning  'profile' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  52:21  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/page.tsx
+   33:12   warning  'mounted' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+   34:13   warning  'profile' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+   45:9    error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/estates/page.tsx:45:9
+  43 |
+  44 |     useEffect(() => {
+> 45 |         setMounted(true);
+     |         ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  46 |         const savedMode = localStorage.getItem("estatesViewMode");
+  47 |         if (savedMode === "grid" || savedMode === "list") {
+  48 |             setViewMode(savedMode);  react-hooks/set-state-in-effect
+  130:144  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/frontdesk-analytics/page.tsx
+   49:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  212:37  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/leads/[id]/page.tsx
+   40:8   warning  React Hook useEffect has a missing dependency: 'fetchLead'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   77:18  warning  'e' is defined but never used                                                                                 @typescript-eslint/no-unused-vars
+   77:21  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  112:59  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                               react/no-unescaped-entities
+  201:34  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                               react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/leads/leads-client.tsx
+   3:31  warning  'useCallback' is defined but never used          @typescript-eslint/no-unused-vars
+  28:16  warning  'LeadStatus' is defined but never used           @typescript-eslint/no-unused-vars
+  38:21  warning  'setLoading' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  39:13  warning  'profile' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  61:25  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  82:25  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/leads/new/page.tsx
+  20:13  warning  'profile' is assigned a value but never used                                                                 @typescript-eslint/no-unused-vars
+  22:44  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  33:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  55:44  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  84:21  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/legacy-import/page.tsx
+   34:13  warning  'profile' is assigned a value but never used                                                                    @typescript-eslint/no-unused-vars
+   74:8   warning  React Hook useEffect has a missing dependency: 'loadEstates'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   85:25  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  113:77  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  248:25  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  588:60  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/notifications/page.tsx
+   3:10  warning  'useEffect' is defined but never used         @typescript-eslint/no-unused-vars
+   3:21  warning  'useState' is defined but never used          @typescript-eslint/no-unused-vars
+   4:10  warning  'createClient' is defined but never used      @typescript-eslint/no-unused-vars
+   5:52  warning  'CardDescription' is defined but never used   @typescript-eslint/no-unused-vars
+   5:69  warning  'CardFooter' is defined but never used        @typescript-eslint/no-unused-vars
+   8:16  warning  'MessageSquare' is defined but never used     @typescript-eslint/no-unused-vars
+   8:31  warning  'Send' is defined but never used              @typescript-eslint/no-unused-vars
+   9:10  warning  'Tabs' is defined but never used              @typescript-eslint/no-unused-vars
+   9:16  warning  'TabsContent' is defined but never used       @typescript-eslint/no-unused-vars
+   9:29  warning  'TabsList' is defined but never used          @typescript-eslint/no-unused-vars
+   9:39  warning  'TabsTrigger' is defined but never used       @typescript-eslint/no-unused-vars
+  10:10  warning  'Label' is defined but never used             @typescript-eslint/no-unused-vars
+  11:10  warning  'Textarea' is defined but never used          @typescript-eslint/no-unused-vars
+  13:10  warning  'Select' is defined but never used            @typescript-eslint/no-unused-vars
+  13:18  warning  'SelectContent' is defined but never used     @typescript-eslint/no-unused-vars
+  13:33  warning  'SelectItem' is defined but never used        @typescript-eslint/no-unused-vars
+  13:45  warning  'SelectTrigger' is defined but never used     @typescript-eslint/no-unused-vars
+  13:60  warning  'SelectValue' is defined but never used       @typescript-eslint/no-unused-vars
+  14:10  warning  'toast' is defined but never used             @typescript-eslint/no-unused-vars
+  20:13  warning  'profile' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/payments/analytics/page.tsx
+  28:40  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  29:60  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  30:58  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  31:68  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  32:54  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  33:58  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  39:8   warning  React Hook useEffect has a missing dependency: 'fetchAnalytics'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/payments/page.tsx
+   11:10  warning  'PaymentModal' is defined but never used                                                                                                                                                                                               @typescript-eslint/no-unused-vars
+   12:10  warning  'ReceiptViewer' is defined but never used                                                                                                                                                                                              @typescript-eslint/no-unused-vars
+   26:17  warning  Unexpected any. Specify a different type                                                                                                                                                                                               @typescript-eslint/no-explicit-any
+   35:12  warning  'isRecordModalOpen' is assigned a value but never used                                                                                                                                                                                 @typescript-eslint/no-unused-vars
+   35:31  warning  'setIsRecordModalOpen' is assigned a value but never used                                                                                                                                                                              @typescript-eslint/no-unused-vars
+   36:12  warning  'selectedPayment' is assigned a value but never used                                                                                                                                                                                   @typescript-eslint/no-unused-vars
+   36:29  warning  'setSelectedPayment' is assigned a value but never used                                                                                                                                                                                @typescript-eslint/no-unused-vars
+   41:5   warning  The 'fetchPayments' function makes the dependencies of useEffect Hook (at line 88) change on every render. Move it inside the useEffect callback. Alternatively, wrap the definition of 'fetchPayments' in its own useCallback() Hook  react-hooks/exhaustive-deps
+   58:43  warning  Unexpected any. Specify a different type                                                                                                                                                                                               @typescript-eslint/no-explicit-any
+   75:34  warning  Unexpected any. Specify a different type                                                                                                                                                                                               @typescript-eslint/no-explicit-any
+  231:47  warning  Unexpected any. Specify a different type                                                                                                                                                                                               @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/payments/plans/payment-plans-client.tsx
+   21:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   83:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  102:18  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  116:18  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/receipts/[id]/page.tsx
+  14:44  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  34:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/reports/reports-view.tsx
+  74:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/settings/audit-logs/page.tsx
+   3:10  warning  'format' is defined but never used                                                                           @typescript-eslint/no-unused-vars
+  19:14  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  31:27  warning  'error' is assigned a value but never used                                                                   @typescript-eslint/no-unused-vars
+  41:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/settings/page.tsx
+   32:58  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   60:8   warning  React Hook useEffect has a missing dependency: 'supabase.storage'. Either include it or remove the dependency array                                                                                                                                                                      react-hooks/exhaustive-deps
+   80:25  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  100:8   warning  React Hook useEffect has a missing dependency: 'fetchAgentDetails'. Either include it or remove the dependency array                                                                                                                                                                     react-hooks/exhaustive-deps
+  132:21  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  170:25  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  184:21  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  204:21  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  216:27  warning  'error' is assigned a value but never used                                                                                                                                                                                                                                               @typescript-eslint/no-unused-vars
+  218:36  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  219:36  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  224:46  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  234:8   warning  React Hook useEffect has a missing dependency: 'fetchSystemSettings'. Either include it or remove the dependency array                                                                                                                                                                   react-hooks/exhaustive-deps
+  255:21  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  316:45  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  453:53  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/staff/[id]/page.tsx
+   28:16  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   41:16  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   49:15  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   73:8   warning  React Hook useEffect has a missing dependency: 'fetchStaffData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  135:21  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  164:21  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/staff/import/page.tsx
+  18:14  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:13  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/staff/monitoring/page.tsx
+  23:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/staff/new/page.tsx
+  39:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/staff/page.tsx
+   31:46  warning  'Download' is defined but never used                                                                           @typescript-eslint/no-unused-vars
+  105:21  warning  Unexpected any. Specify a different type                                                                       @typescript-eslint/no-explicit-any
+  120:21  warning  Unexpected any. Specify a different type                                                                       @typescript-eslint/no-explicit-any
+  143:8   warning  React Hook useEffect has a missing dependency: 'fetchStaff'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  199:21  warning  Unexpected any. Specify a different type                                                                       @typescript-eslint/no-explicit-any
+  225:21  warning  Unexpected any. Specify a different type                                                                       @typescript-eslint/no-explicit-any
+  250:21  warning  Unexpected any. Specify a different type                                                                       @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/support/page.tsx
+  10:5   warning  'MessageSquare' is defined but never used   @typescript-eslint/no-unused-vars
+  11:5   warning  'CheckCircle2' is defined but never used    @typescript-eslint/no-unused-vars
+  12:5   warning  'MoreHorizontal' is defined but never used  @typescript-eslint/no-unused-vars
+  15:5   warning  'ArrowRight' is defined but never used      @typescript-eslint/no-unused-vars
+  32:44  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  34:58  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  42:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  78:27  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(dashboard)/dashboard/system-health/page.tsx
+  44:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(portal)/layout.tsx
+  15:20  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  17:14  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  25:13  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/allocations/page.tsx
+   77:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                              react-hooks/exhaustive-deps
+  123:37  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/documents/page.tsx
+   29:12   warning  'payments' is assigned a value but never used                                                                      @typescript-eslint/no-unused-vars
+   29:46   warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   36:8    warning  React Hook useEffect has a missing dependency: 'fetchDocuments'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   83:55   warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   83:118  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   88:52   warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   89:52   warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  123:11   warning  'getDocumentIcon' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/help/portal-help-client.tsx
+  15:21  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  22:11  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  43:21  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/kyc/page.tsx
+   16:46  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   50:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                              react-hooks/exhaustive-deps
+   56:9   warning  Expected an assignment or function call and instead saw an expression                                                                                                                                                                                                                    @typescript-eslint/no-unused-expressions
+   71:28  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   73:25  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   76:13  warning  Expected an assignment or function call and instead saw an expression                                                                                                                                                                                                                    @typescript-eslint/no-unused-expressions
+   88:49  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   91:32  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  157:83  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  159:78  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  179:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  203:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/payments/page.tsx
+   16:11  warning  'AllocationPlot' is defined but never used                                                                    @typescript-eslint/no-unused-vars
+   35:15  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+   42:52  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+   56:8   warning  React Hook useEffect has a missing dependency: 'fetchData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  114:80  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  118:43  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  138:58  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  139:44  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  164:51  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  350:96  warning  Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/properties/[id]/page.tsx
+   58:39  warning  'error' is assigned a value but never used                                                                                                                                                                                                                                               @typescript-eslint/no-unused-vars
+   94:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                              react-hooks/exhaustive-deps
+  112:21  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/properties/page.tsx
+  118:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                              react-hooks/exhaustive-deps
+  162:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  255:36  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/(portal)/portal/settings/portal-settings-client.tsx
+  12:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/admin/find-double-plots/route.ts
+  19:17  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/admin/full-restore/route.ts
+   35:20  warning  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+   87:13  warning  'importStats' is never reassigned. Use 'const' instead  prefer-const
+  119:51  warning  'cErr' is assigned a value but never used               @typescript-eslint/no-unused-vars
+  150:48  warning  'aErr' is assigned a value but never used               @typescript-eslint/no-unused-vars
+  233:17  warning  Unexpected any. Specify a different type                @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/auth/rate-limit/check/route.ts
+  51:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/auth/rate-limit/record/route.ts
+  65:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/backups/status/route.ts
+   11:27  warning  'req' is defined but never used           @typescript-eslint/no-unused-vars
+  104:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/backups/trigger/route.ts
+  11:28  warning  'req' is defined but never used           @typescript-eslint/no-unused-vars
+  98:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/cron/cleanup/route.ts
+  45:59  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  91:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/cron/job-monitor/route.ts
+  113:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/customers/verify-phone/route.ts
+  17:22  warning  'resend' is never reassigned. Use 'const' instead  prefer-const
+  17:22  warning  'resend' is assigned a value but never used        @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/app/api/staff/[id]/avatar/route.ts
+   89:23  warning  'uploadData' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  150:21  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  238:21  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/[id]/deactivate/route.ts
+  147:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/[id]/reset-password/route.ts
+  49:24  warning  'resetError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  82:21  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/[id]/role/route.ts
+  65:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/[id]/suspend/route.ts
+  135:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/activate/route.ts
+   76:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/import/route.ts
+   49:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   57:30  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   74:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  233:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  264:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/api/staff/invite/route.ts
+  167:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/apply/page.tsx
+  112:25  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  133:90  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  149:50  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  367:49  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/auth/update-password/page.tsx
+  20:11  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  68:25  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/forgot-password/page.tsx
+  31:11  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  64:25  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  98:25  warning  Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/app/global-error.tsx
+  23:21  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/maintenance/page.tsx
+  35:8  warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/app/not-found.tsx
+   7:13  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  11:33  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  11:54  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/onboarding/page.tsx
+    9:69  warning  'CardFooter' is defined but never used                           @typescript-eslint/no-unused-vars
+   12:24  warning  'Circle' is defined but never used                               @typescript-eslint/no-unused-vars
+   45:21  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   67:21  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   79:41  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  123:74  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/portal/activate/page.tsx
+   31:11  warning  'supabase' is assigned a value but never used                    @typescript-eslint/no-unused-vars
+   79:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  113:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  153:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  176:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  265:41  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/privacy/page.tsx
+  8:66  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/app/verify/page.tsx
+  58:18  warning  'error' is defined but never used                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+  70:25  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/app/~offline/page.tsx
+  15:33  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/components/admin-delete-button.tsx
+  80:41  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  96:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/allocations/allocation-financial-summary.tsx
+  5:10  warning  'Badge' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/allocations/wizard/allocation-wizard.tsx
+    4:10  warning  'useSearchParams' is defined but never used                                                                                                                                                                                                                               @typescript-eslint/no-unused-vars
+    6:10  warning  'Button' is defined but never used                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+   15:10  warning  'createClient' is defined but never used                                                                                                                                                                                                                                  @typescript-eslint/no-unused-vars
+   17:10  warning  'logger' is defined but never used                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+   74:13  warning  'profile' is assigned a value but never used                                                                                                                                                                                                                              @typescript-eslint/no-unused-vars
+   91:12  warning  'submitStatus' is assigned a value but never used                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+  101:8   warning  React Hook useEffect has a missing dependency: 'prefilledData'. Either include it or remove the dependency array. If 'setData' needs the current value of 'prefilledData', you can also switch to useReducer instead of useState and read 'prefilledData' in the reducer  react-hooks/exhaustive-deps
+  120:34  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                  @typescript-eslint/no-explicit-any
+  132:19  warning  'finalTotalPrice' is assigned a value but never used                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+  174:25  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                  @typescript-eslint/no-explicit-any
+  231:71  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/allocations/wizard/steps/payment-step.tsx
+  46:8  warning  React Hook useEffect has a missing dependency: 'updateData'. Either include it or remove the dependency array. If 'updateData' changes too often, find the parent component that defines it and wrap that definition in useCallback  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/allocations/wizard/steps/plan-details-step.tsx
+   20:42  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   33:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   84:61  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+   84:63  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+   85:61  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+   85:63  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                              react/no-unescaped-entities
+  143:49  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                              react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/components/allocations/wizard/steps/select-customer-step.tsx
+  21:48  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  37:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/allocations/wizard/steps/select-plot-step.tsx
+  29:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:40  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/analytics/CustomerAnalyticsDashboard.tsx
+  43:54  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  48:8   warning  React Hook useEffect has a missing dependency: 'fetchAnalytics'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/analytics/export-button.tsx
+  33:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/analytics/revenue-trend-chart.tsx
+  16:5   warning  'Legend' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                @typescript-eslint/no-unused-vars
+  44:9   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+/Users/lordkay/Development/acrely/src/components/analytics/revenue-trend-chart.tsx:44:9
+  42 |
+  43 |     useEffect(() => {
+> 44 |         setMounted(true);
+     |         ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  45 |     }, []);
+  46 |
+  47 |     if (loading) {  react-hooks/set-state-in-effect
+  83:11  warning  'DataComponent' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/apartments/ApartmentForm.tsx
+   52:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:18  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+   94:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  107:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  182:54  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  201:54  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/apartments/ApartmentList.tsx
+  85:37  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/components/appointments/AppointmentForm.tsx
+   49:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:18  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+   75:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  127:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  141:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  167:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/appointments/AppointmentList.tsx
+    4:36  warning  'User' is defined but never used          @typescript-eslint/no-unused-vars
+   43:76  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:18  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+   71:18  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+  201:24  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/backups/backup-history-table.tsx
+  92:35  warning  'backup' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/backups/backup-overview-cards.tsx
+  30:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/communications/NotificationDropdown.tsx
+  6:16  warning  'Check' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/customers/CreateCustomerForm.tsx
+  75:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/customers/CustomerProfileView.tsx
+   31:104  warning  'updateCustomerKYCAction' is defined but never used  @typescript-eslint/no-unused-vars
+   34:15   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   35:18   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   36:15   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   37:19   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   38:16   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   39:19   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   96:21   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  112:21   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  135:21   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  160:23   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  184:21   warning  Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/customers/CustomersTable.tsx
+  172:43  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/customers/KYCStatusManager.tsx
+   92:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/customers/KycRequestsTable.tsx
+   28:23  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   32:48  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   33:62  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   74:27  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  137:81  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  147:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  167:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/components/customers/PhoneNumberManager.tsx
+  27:5  warning  'updateCustomerPhoneNumberAction' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/customers/customer-activity-timeline.tsx
+   6:19  warning  'Calendar' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   7:10  warning  'Badge' is defined but never used                                                                            @typescript-eslint/no-unused-vars
+  16:14  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+  42:27  warning  'error' is assigned a value but never used                                                                   @typescript-eslint/no-unused-vars
+  52:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/dashboard/agent-dashboard.tsx
+  16:10  warning  'formatCurrency' is defined but never used                                                                      @typescript-eslint/no-unused-vars
+  25:69  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  26:11  warning  'supabase' is assigned a value but never used                                                                   @typescript-eslint/no-unused-vars
+  36:56  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  37:12  warning  'leadsLoading' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+  68:8   warning  React Hook useEffect has a missing dependency: 'initialData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/dashboard/ceo-dashboard.tsx
+   36:14  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+   38:14  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+   39:20  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+   40:17  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+   45:11  warning  'supabase' is assigned a value but never used                                                                   @typescript-eslint/no-unused-vars
+   65:48  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+   67:64  warning  Unexpected any. Specify a different type                                                                        @typescript-eslint/no-explicit-any
+  122:8   warning  React Hook useEffect has a missing dependency: 'initialData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/components/dashboard/customer-dashboard.tsx
+   20:59  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   23:46  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   24:52  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   25:58  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   77:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                              react-hooks/exhaustive-deps
+   99:34  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  118:29  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+  153:55  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  160:45  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+  214:40  warning  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                          react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/components/dashboard/front-desk-dashboard.tsx
+   12:5   warning  'Plus' is defined but never used                                                                                                 @typescript-eslint/no-unused-vars
+   24:10  warning  'formatCurrency' is defined but never used                                                                                       @typescript-eslint/no-unused-vars
+   30:73  warning  Unexpected any. Specify a different type                                                                                         @typescript-eslint/no-explicit-any
+   34:52  warning  Unexpected any. Specify a different type                                                                                         @typescript-eslint/no-explicit-any
+   35:58  warning  Unexpected any. Specify a different type                                                                                         @typescript-eslint/no-explicit-any
+   76:8   warning  React Hook useEffect has missing dependencies: 'initialData' and 'supabase'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+  269:69  warning  Unexpected any. Specify a different type                                                                                         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/dashboard/pipeline-board.tsx
+   5:29  warning  'CardHeader' is defined but never used    @typescript-eslint/no-unused-vars
+   5:41  warning  'CardTitle' is defined but never used     @typescript-eslint/no-unused-vars
+   6:34  warning  'AvatarImage' is defined but never used   @typescript-eslint/no-unused-vars
+  11:12  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  58:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/dashboard/withdrawal-request-dialog.tsx
+  49:84  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  64:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/estates/add-plot-dialog.tsx
+  85:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/estates/archive-estate-modal.tsx
+  71:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/estates/bulk-create-plots-dialog.tsx
+   18:29  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   93:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  148:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  198:46  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  198:48  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/components/estates/edit-estate-dialog.tsx
+  22:13  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  23:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/estates/estate-activity-timeline.tsx
+   24:14  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   38:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  136:45  warning  'index' is defined but never used           @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/estates/estate-inventory-bar.tsx
+  28:11  warning  'availablePercent' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/estates/price-change-warning-modal.tsx
+  3:10  warning  'useState' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/features/estate-card.tsx
+   5:41  warning  'CardHeader' is defined but never used                                                                                                                                                                                                                                                   @typescript-eslint/no-unused-vars
+  43:21  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/components/features/payment-modal.tsx
+   36:52  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   41:54  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   68:65  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   81:77  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   81:85  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+   99:8   warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  184:25  warning  Unexpected any. Specify a different type                                                                     @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/features/plot-grid.tsx
+  5:10  warning  'isHalfPlot' is defined but never used        @typescript-eslint/no-unused-vars
+  5:41  warning  'getPlotTypeLabel' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/features/receipt-viewer.tsx
+   3:33  warning  'DialogDescription' is defined but never used  @typescript-eslint/no-unused-vars
+   3:52  warning  'DialogHeader' is defined but never used       @typescript-eslint/no-unused-vars
+   3:66  warning  'DialogTitle' is defined but never used        @typescript-eslint/no-unused-vars
+  15:14  warning  Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/guide/system-guide.tsx
+  4:25  warning  'GuideSection' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/layout/sidebar.tsx
+   36:11  warning  Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  235:21  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+/Users/lordkay/Development/acrely/src/components/leads/ConvertToCustomerModal.tsx
+   39:48  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+   53:8   warning  React Hook useEffect has a missing dependency: 'checkDuplicate'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+   87:52  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+  116:25  warning  Unexpected any. Specify a different type                                                                           @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/leads/FollowUpScheduler.tsx
+  60:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/leads/LeadTimeline.tsx
+   7:10  warning  'Avatar' is defined but never used          @typescript-eslint/no-unused-vars
+   7:18  warning  'AvatarFallback' is defined but never used  @typescript-eslint/no-unused-vars
+  26:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  60:32  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  75:32  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  86:56  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  91:62  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/leads/MarkAsLostModal.tsx
+  118:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/payments/payment-balance-display.tsx
+  5:10  warning  'Badge' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/payments/payment-reversal-dialog.tsx
+   75:25  warning  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  127:63  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  127:72  warning  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+/Users/lordkay/Development/acrely/src/components/payments/wizard/payment-wizard.tsx
+  102:27  warning  'resData' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  119:25  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/payments/wizard/steps/select-allocation-step.tsx
+   20:48  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   21:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   71:61  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   72:57  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  104:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/payments/wizard/steps/select-type-step.tsx
+  13:34  warning  'data' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/plots/mark-plot-unavailable.tsx
+  46:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/portal/make-payment-dialog.tsx
+   5:79  warning  'DialogFooter' is defined but never used       @typescript-eslint/no-unused-vars
+   9:10  warning  'Select' is defined but never used             @typescript-eslint/no-unused-vars
+   9:18  warning  'SelectContent' is defined but never used      @typescript-eslint/no-unused-vars
+   9:33  warning  'SelectItem' is defined but never used         @typescript-eslint/no-unused-vars
+   9:45  warning  'SelectTrigger' is defined but never used      @typescript-eslint/no-unused-vars
+   9:60  warning  'SelectValue' is defined but never used        @typescript-eslint/no-unused-vars
+  37:5   warning  'customerId' is defined but never used         @typescript-eslint/no-unused-vars
+  38:5   warning  'onPaymentComplete' is defined but never used  @typescript-eslint/no-unused-vars
+  45:11  warning  'supabase' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/portal/payment-schedule.tsx
+   86:47  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   86:65  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  152:55  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/receipts/receipt-actions.tsx
+   96:21  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  147:21  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/staff/confirm-action-dialog.tsx
+  13:10  warning  'Input' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/staff/impersonation-banner.tsx
+  64:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/components/ui/calendar.tsx
+  4:10  warning  'ChevronLeft' is defined but never used   @typescript-eslint/no-unused-vars
+  4:23  warning  'ChevronRight' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/ui/chip.tsx
+  1:10  warning  'Badge' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/ui/searchable-select.tsx
+  11:5  warning  'CommandInput' is defined but never used       @typescript-eslint/no-unused-vars
+  48:5  warning  'required' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/components/ui/theme-toggle.tsx
+  17:13  warning  'theme' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/hooks/use-delayed-loading.ts
+  36:8  warning  React Hook useEffect has a missing dependency: 'showLoader'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/hooks/use-overdue-lead-checker.ts
+  213:8  warning  React Hook useEffect has a missing dependency: 'checkOverdueLeads'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+/Users/lordkay/Development/acrely/src/hooks/use-profile.ts
+  3:10  warning  'cn' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/allocation-actions.ts
+   27:7   warning  'approveSchema' is assigned a value but only used as a type     @typescript-eslint/no-unused-vars
+   45:7   warning  'assignPlotSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+   70:7   warning  'reassignSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+   90:7   warning  'cancelSchema' is assigned a value but only used as a type      @typescript-eslint/no-unused-vars
+  109:7   warning  'completeSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+  134:54  warning  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  134:65  warning  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+  134:77  warning  Unexpected any. Specify a different type                        @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/actions/analytics-actions.ts
+    4:10  warning  'logger' is defined but never used               @typescript-eslint/no-unused-vars
+   42:7   warning  'UuidSchema' is assigned a value but never used  @typescript-eslint/no-unused-vars
+   44:10  warning  'StandardErrors' is defined but never used       @typescript-eslint/no-unused-vars
+  332:29  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/actions/commission-actions.ts
+  9:7  warning  'withdrawalSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/customer-actions.ts
+   41:7   warning  'convertLeadSchema' is assigned a value but only used as a type        @typescript-eslint/no-unused-vars
+   68:55  warning  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+   99:23  warning  'customer' is assigned a value but never used                          @typescript-eslint/no-unused-vars
+  101:25  warning  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+  112:7   warning  'updateCustomerKYCSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  142:65  warning  Unexpected any. Specify a different type                               @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/actions/estate-actions.ts
+    9:7  warning  'createEstateSchema' is assigned a value but only used as a type     @typescript-eslint/no-unused-vars
+   17:7  warning  'updateEstateSchema' is assigned a value but only used as a type     @typescript-eslint/no-unused-vars
+   22:7  warning  'archiveEstateSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+   27:7  warning  'checkConflictSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+   32:7  warning  'bulkCreatePlotsSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  110:7  warning  'createPlotSchema' is assigned a value but only used as a type       @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/leads-actions.ts
+  19:7  warning  'UpdateLeadSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/legacy-import-actions.ts
+  200:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/actions/onboarding-actions.ts
+  9:7  warning  'updateProfileSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/payment-plan-actions.ts
+   9:7  warning  'createPlanSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  17:7  warning  'updatePlanSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  24:7  warning  'deletePlanSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/portal-actions.ts
+  10:7   warning  'updateCustomerSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+  17:7   warning  'createTicketSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+  34:15  warning  'result' is assigned a value but never used                         @typescript-eslint/no-unused-vars
+  53:15  warning  'result' is assigned a value but never used                         @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/settings-actions.ts
+  11:7  warning  'updateAgentSchema' is assigned a value but only used as a type     @typescript-eslint/no-unused-vars
+  17:7  warning  'updateAvatarSchema' is assigned a value but only used as a type    @typescript-eslint/no-unused-vars
+  21:7  warning  'updateSettingsSchema' is assigned a value but only used as a type  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/actions/support-actions.ts
+  19:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/api-error.ts
+  13:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  16:73  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  20:35  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:30  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/audit.ts
+  34:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:15  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/communications/engine.ts
+    2:16   warning  'uuidv4' is defined but never used            @typescript-eslint/no-unused-vars
+   18:26   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+   37:57   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+   72:26   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+   76:36   warning  'error' is assigned a value but never used    @typescript-eslint/no-unused-vars
+   83:17   warning  'isStaff' is assigned a value but never used  @typescript-eslint/no-unused-vars
+   88:37   warning  'error' is assigned a value but never used    @typescript-eslint/no-unused-vars
+  142:64   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  182:25   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  208:41   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  227:24   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  231:29   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  250:55   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  250:93   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  297:108  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  309:27   warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/communications/event-dispatcher.ts
+  13:26  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/communications/validator.ts
+   1:10  warning  'CommunicationEngine' is defined but never used  @typescript-eslint/no-unused-vars
+  75:30  warning  'userId' is defined but never used               @typescript-eslint/no-unused-vars
+  75:46  warning  'hash' is defined but never used                 @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/constants/guide-content.ts
+   9:5   warning  'MessageSquare' is defined but never used  @typescript-eslint/no-unused-vars
+  10:5   warning  'BookOpen' is defined but never used       @typescript-eslint/no-unused-vars
+  23:11  warning  Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/correlation.ts
+  13:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/currency.ts
+  39:34  warning  'initialValue' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/email/send-email.ts
+   23:31  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   81:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/logger.ts
+  19:30  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:86  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  49:53  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  57:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  65:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  73:78  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  82:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  86:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  90:51  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/payments.ts
+  51:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/performance.ts
+  109:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:64  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  113:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/AllocationRepository.ts
+   12:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:43  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/CustomerRepository.ts
+   59:71  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  126:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/EstateRepository.ts
+  36:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:18  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/PaymentRepository.ts
+  69:18  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/interfaces/IAllocationRepository.ts
+  5:38  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/interfaces/ICustomerRepository.ts
+   9:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  11:40  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/repositories/types.ts
+    2:10  warning  'SupabaseClient' is defined but never used  @typescript-eslint/no-unused-vars
+   23:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   39:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   45:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   57:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   69:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   86:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  111:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  130:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  158:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  170:16  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/safe-action.ts
+  23:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  37:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/AgentService.ts
+  33:23  warning  'result' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/AllocationService.ts
+    6:10  warning  'AllocationWithDetails' is defined but never used  @typescript-eslint/no-unused-vars
+  169:59  warning  'actorRole' is defined but never used              @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/CommissionService.ts
+  3:10  warning  'logger' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/CommunicationService.ts
+  12:16  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:63  warning  'body' is defined but never used          @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/CustomerService.ts
+   17:47  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:32  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   75:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   88:86  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  116:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  117:40  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  137:49  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:43  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:40  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  147:76  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  150:67  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  157:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:55  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  179:37  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  221:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  238:51  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  305:55  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/EstateService.ts
+  64:45  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:34  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  84:51  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:46  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  93:61  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/LeadsService.ts
+  67:43  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/PaymentPlanService.ts
+  3:10  warning  'logger' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/PaymentService.ts
+  5:10  warning  'Installment' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/services/ProfileService.ts
+   3:10  warning  'logger' is defined but never used        @typescript-eslint/no-unused-vars
+  18:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/SettingsService.ts
+  3:10  warning  'logger' is defined but never used        @typescript-eslint/no-unused-vars
+  8:63  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/services/SupportService.ts
+  3:10  warning  'logger' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/storage.ts
+  13:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/supabase/middleware.ts
+  20:58  warning  'options' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/src/lib/utils/analytics-utils.ts
+  59:11  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/utils/csv-utils.ts
+   12:33  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   42:32  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:11  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/src/lib/utils/phone.ts
+  30:9  warning  'clean' is never reassigned. Use 'const' instead  prefer-const
+
+/Users/lordkay/Development/acrely/src/proxy.ts
+  125:36  warning  'authError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/admin-tools.spec.ts
+  2:17  warning  'waitForToast' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/auth.spec.ts
+  190:81  warning  'page' is defined but never used     @typescript-eslint/no-unused-vars
+  190:87  warning  'context' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/ceo.spec.ts
+  2:17  warning  'waitForToast' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/estates.spec.ts
+   2:31  warning  'fillForm' is defined but never used                 @typescript-eslint/no-unused-vars
+  61:15  warning  'newDescription' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/frontdesk.spec.ts
+   2:17  warning  'waitForToast' is defined but never used       @typescript-eslint/no-unused-vars
+  15:9   warning  'testData' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import-all.spec.ts
+  32:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  83:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import-allocations.spec.ts
+    1:16  warning  'expect' is defined but never used                  @typescript-eslint/no-unused-vars
+   80:49  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+   85:19  warning  'status' is assigned a value but never used         @typescript-eslint/no-unused-vars
+  202:23  warning  'submitPromise' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  207:26  warning  'e' is defined but never used                       @typescript-eslint/no-unused-vars
+  229:27  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import-customers.spec.ts
+   39:45  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:34  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import-payments.spec.ts
+    1:16  warning  'expect' is defined but never used                  @typescript-eslint/no-unused-vars
+   43:47  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+   67:41  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+   72:13  warning  'rawDate' is never reassigned. Use 'const' instead  prefer-const
+   81:21  warning  'd' is never reassigned. Use 'const' instead        prefer-const
+   82:21  warning  'm' is never reassigned. Use 'const' instead        prefer-const
+   83:21  warning  'y' is never reassigned. Use 'const' instead        prefer-const
+  105:62  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+  136:55  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+  138:26  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+  237:21  warning  Unexpected any. Specify a different type            @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import-unified.spec.ts
+    2:16  warning  'expect' is defined but never used        @typescript-eslint/no-unused-vars
+   69:39  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  165:27  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-import.spec.ts
+   3:17  warning  'waitForToast' is defined but never used  @typescript-eslint/no-unused-vars
+  37:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/e2e/legacy-manual-entry.spec.ts
+   36:22  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+   50:48  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   51:42  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:55  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  219:29  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  224:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/master-flow.spec.ts
+  23:9  warning  'paymentId' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/md.spec.ts
+  2:17  warning  'waitForToast' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/operational.spec.ts
+  2:17  warning  'waitForToast' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/payments.spec.ts
+  201:19  warning  'paidInstallments' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/plots-module.spec.ts
+   94:61  warning  'page' is defined but never used  @typescript-eslint/no-unused-vars
+  101:63  warning  'page' is defined but never used  @typescript-eslint/no-unused-vars
+  106:62  warning  'page' is defined but never used  @typescript-eslint/no-unused-vars
+  142:63  warning  'page' is defined but never used  @typescript-eslint/no-unused-vars
+  174:48  warning  'page' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/pwa.spec.ts
+  28:15  warning  'swStatus' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/e2e/rbac.spec.ts
+  2:10  warning  'TEST_USERS' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/integration/actions/allocation-actions.test.ts
+  41:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:16  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  62:16  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/integration/actions/customer-actions.test.ts
+  26:23   warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  27:11   warning  'mockedCustomerService' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  41:26   warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  53:146  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  81:137  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  95:119  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/integration/actions/kyc-actions.test.ts
+  26:23   warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  27:11   warning  'mockedCustomerService' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  41:26   warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  56:117  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  78:19   warning  'spy' is assigned a value but never used                    @typescript-eslint/no-unused-vars
+  78:113  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+  89:113  warning  Unexpected any. Specify a different type                    @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/integration/actions/leads-actions.test.ts
+  26:23   warning  Unexpected any. Specify a different type                 @typescript-eslint/no-explicit-any
+  27:11   warning  'mockedLeadsService' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  37:26   warning  Unexpected any. Specify a different type                 @typescript-eslint/no-explicit-any
+  49:97   warning  Unexpected any. Specify a different type                 @typescript-eslint/no-explicit-any
+  68:97   warning  Unexpected any. Specify a different type                 @typescript-eslint/no-explicit-any
+  80:134  warning  Unexpected any. Specify a different type                 @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/integration/actions/payment-actions.test.ts
+   1:48  warning  'Mocked' is defined but never used                         @typescript-eslint/no-unused-vars
+  26:23  warning  Unexpected any. Specify a different type                   @typescript-eslint/no-explicit-any
+  27:11  warning  'mockedPaymentService' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  37:26  warning  Unexpected any. Specify a different type                   @typescript-eslint/no-explicit-any
+  55:47  warning  Unexpected any. Specify a different type                   @typescript-eslint/no-explicit-any
+  86:19  warning  'spy' is assigned a value but never used                   @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/receipts.spec.ts
+    8:19  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+    9:9   warning  'testPaymentId' is defined but never used     @typescript-eslint/no-unused-vars
+   10:9   warning  'testCustomerId' is defined but never used    @typescript-eslint/no-unused-vars
+   11:9   warning  'testAllocationId' is defined but never used  @typescript-eslint/no-unused-vars
+   91:46  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  111:46  warning  Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/rls/customers.test.ts
+   30:22  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   31:22  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   32:26  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   33:26  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  236:27  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  278:27  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  335:27  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/rls/leads.test.ts
+   17:22  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+   18:25  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  103:37  warning  Unexpected any. Specify a different type    @typescript-eslint/no-explicit-any
+  120:23  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/setup/apply-allocations-upgrade.ts
+  82:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/apply-missing-parts.ts
+  72:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/apply-plots-upgrade.ts
+  50:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/check-allocations.ts
+  23:19  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/clean-db.ts
+  110:14  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+  117:18  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/setup/create-test-users.ts
+  141:25  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/fix-db.ts
+  15:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/setup/manual-migrate.ts
+  11:7   warning  'supabase' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  13:16  warning  'applyMigrations' is defined but never used    @typescript-eslint/no-unused-vars
+  27:15  warning  'sql' is assigned a value but never used       @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/setup/nuke-real.ts
+   39:45  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   63:21  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   68:18  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  121:22  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/setup/test-helpers.ts
+  174:12  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/staff-management.spec.ts
+  86:15  warning  'staffName' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+/Users/lordkay/Development/acrely/tests/unit/api/staff-invite.test.ts
+  17:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  39:26  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  40:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  41:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  60:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  61:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  76:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  77:28  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/communications/engine.test.ts
+   19:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   36:26  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   39:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:50  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   41:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  101:52  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/functions/convert-lead.test.ts
+   2:10   warning  'createClient' is defined but never used          @typescript-eslint/no-unused-vars
+   5:7    warning  'corsHeaders' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  11:16   warning  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  19:6    warning  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  35:23   warning  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  54:111  warning  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  55:32   warning  Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/functions/create-payment.test.ts
+   4:16  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  13:6   warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  30:28  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  31:27  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  32:9   warning  'consoleSpy' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  32:21  warning  Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/AllocationService.test.ts
+  14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  19:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/ApartmentService.test.ts
+  14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/AppointmentService.test.ts
+  14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/CustomerService.test.ts
+  14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:53  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/DeleteService.test.ts
+  7:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/EstateService.test.ts
+   7:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  10:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  35:32  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/LeadsService.test.ts
+   14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   47:53  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   77:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  105:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+/Users/lordkay/Development/acrely/tests/unit/services/PaymentService.test.ts
+   14:23  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   18:22  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   52:32  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   90:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  148:44  warning  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+✖ 1193 problems (2 errors, 1191 warnings)
+  0 errors and 16 warnings potentially fixable with the `--fix` option.
+

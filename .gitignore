@@ -1,0 +1,23 @@
+# Playwright auth state files — contain session cookies; never commit
+.playwright/auth/
+
+# Playwright output
+playwright-report/
+test-results/
+
+# Next.js
+.next/
+out/
+
+# Node
+node_modules/
+
+# Environment
+.env.local
+.env*.local
+
+# Coverage
+coverage/
+
+# OS
+.DS_Store

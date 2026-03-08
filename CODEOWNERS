@@ -1,0 +1,94 @@
+# CODEOWNERS - Code Ownership and Review Requirements
+# 
+# This file defines ownership for different parts of the Acrely codebase.
+# When a pull request modifies files in these directories, the specified
+# owners will automatically be requested for review.
+#
+# Format: path/to/code @owner-username
+# Learn more: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+# These owners will be requested for review unless a later match takes precedence
+* @lordkay
+
+# Documentation
+/docs/ @lordkay
+/README.md @lordkay
+/PRODUCT_STANDARD.md @lordkay
+
+# Database & Migrations
+/supabase/migrations/ @lordkay
+/supabase/functions/ @lordkay
+/supabase/seed.sql @lordkay
+
+# Core Infrastructure
+/src/lib/logger.ts @lordkay
+/src/lib/audit.ts @lordkay
+/src/lib/supabase/ @lordkay
+/src/middleware.ts @lordkay
+
+# Authentication & Authorization
+/src/lib/auth/ @lordkay
+/src/app/login/ @lordkay
+/src/app/auth/ @lordkay
+
+# Communications System
+/src/lib/communications/ @lordkay
+/src/lib/email/ @lordkay
+/supabase/functions/send-message/ @lordkay
+
+# Customer Management
+/src/components/customers/ @lordkay
+/src/app/(dashboard)/dashboard/customers/ @lordkay
+
+# Estates & Plots
+/src/components/estates/ @lordkay
+/src/components/plots/ @lordkay
+/src/app/(dashboard)/dashboard/estates/ @lordkay
+
+# Allocations & Sales
+/src/components/allocations/ @lordkay
+/src/app/(dashboard)/dashboard/allocations/ @lordkay
+
+# Payments & Financial
+/src/components/payments/ @lordkay
+/src/components/receipts/ @lordkay
+/src/app/(dashboard)/dashboard/payments/ @lordkay
+/src/lib/payments.ts @lordkay
+
+# Leads & CRM
+/src/components/leads/ @lordkay
+/src/app/(dashboard)/dashboard/leads/ @lordkay
+
+# Staff Management
+/src/components/staff/ @lordkay
+/src/app/(dashboard)/dashboard/staff/ @lordkay
+
+# Analytics & Reporting
+/src/components/analytics/ @lordkay
+/src/lib/actions/analytics-actions.ts @lordkay
+/src/app/(dashboard)/dashboard/analytics/ @lordkay
+/src/app/(dashboard)/dashboard/reports/ @lordkay
+
+# Background Jobs & Automation
+/supabase/functions/backup-database/ @lordkay
+/supabase/functions/process-schedule/ @lordkay
+/supabase/functions/cron-*/ @lordkay
+
+# Testing
+/tests/ @lordkay
+/playwright.config.ts @lordkay
+/vitest.config.ts @lordkay
+
+# Configuration
+/.env.example @lordkay
+/next.config.ts @lordkay
+/tailwind.config.ts @lordkay
+/tsconfig.json @lordkay
+
+# Deployment & CI/CD
+/vercel.json @lordkay
+/.github/ @lordkay
+
+# Scripts
+/scripts/ @lordkay
